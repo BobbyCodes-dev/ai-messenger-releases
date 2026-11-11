@@ -1,13 +1,17 @@
 # AI Messenger — release builds
 
-This repository carries **signed APK builds only**. The source code is private and
-lives elsewhere; nothing here is source, and there is nothing to compile.
+This repository carries **signed APK builds only**. Nothing here is source, and there is nothing to
+compile. The source is public and readable for review at
+[`BobbyCodes-dev/ai-messenger`](https://github.com/BobbyCodes-dev/ai-messenger) — visible source, not
+open source; that repository's `LICENSE` says what you may and may not do with it.
 
-Download the newest build from the [Releases](../../releases) page.
+Download the newest build from the
+[Releases](https://github.com/BobbyCodes-dev/ai-messenger-releases/releases) page.
 
 ## Install
 
-1. Open the [latest release](../../releases/latest) and tap the `.apk` asset.
+1. Open the [latest release](https://github.com/BobbyCodes-dev/ai-messenger-releases/releases/latest)
+   and tap the `.apk` asset.
 2. Android will ask you to allow installs from this source. Allow it for the
    browser or file manager you used, then tap **Install**.
 3. Open **AI Messenger**. The first-run wizard asks where your agent lives and
@@ -26,7 +30,7 @@ installs new releases for you, which is the closest thing to store updates
 without a store:
 
 1. Install Obtainium.
-2. Add app → paste `https://github.com/bluontt/ai-messenger-releases`.
+2. Add app → paste `https://github.com/BobbyCodes-dev/ai-messenger-releases`.
 3. Let it check for releases.
 
 Every release is signed with the same key, so updates install over the previous
