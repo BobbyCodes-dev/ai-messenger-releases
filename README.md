@@ -1,9 +1,9 @@
 # AI Messenger — release builds
 
 This repository carries **signed APK builds only**. Nothing here is source, and there is nothing to
-compile. The source is public and readable for review at
-[`BobbyCodes-dev/ai-messenger`](https://github.com/BobbyCodes-dev/ai-messenger) — visible source, not
-open source; that repository's `LICENSE` says what you may and may not do with it.
+compile. The source is private and proprietary. If you need a build reviewed for security before
+you point it at your own server, say so at [bobbycodes.dev](https://bobbycodes.dev) and you will get
+a walkthrough of the network calls and storage.
 
 Download the newest build from the
 [Releases](https://github.com/BobbyCodes-dev/ai-messenger-releases/releases) page.
