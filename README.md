@@ -8,6 +8,21 @@ a walkthrough of the network calls and storage.
 Download the newest build from the
 [Releases](https://github.com/BobbyCodes-dev/ai-messenger-releases/releases) page.
 
+## What it looks like
+
+| First run | Where your agent lives |
+|---|---|
+| <img src="screenshots/01-first-run.png" width="230" alt="First-run welcome screen"> | <img src="screenshots/02-where-your-agent-lives.png" width="230" alt="Choosing the kind of agent to connect"> |
+
+| One-time setup code | Chatting |
+|---|---|
+| <img src="screenshots/03-one-time-code.png" width="230" alt="Entering a one-time setup code instead of an API key"> | <img src="screenshots/04-chat.png" width="230" alt="A conversation with an agent"> |
+
+Five steps from install to first message. Setup takes one of two credentials: an access key, or a
+single-use **setup code** minted on your server — in that case the master key never reaches the
+phone, only a revocable per-device token does. Names, addresses and the code in these screenshots
+are examples.
+
 ## Install
 
 1. Open the [latest release](https://github.com/BobbyCodes-dev/ai-messenger-releases/releases/latest)
