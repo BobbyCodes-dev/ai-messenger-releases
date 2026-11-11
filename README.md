@@ -10,18 +10,19 @@ Download the newest build from the
 
 ## What it looks like
 
-| First run | Where your agent lives |
-|---|---|
-| <img src="screenshots/01-first-run.png" width="230" alt="First-run welcome screen"> | <img src="screenshots/02-where-your-agent-lives.png" width="230" alt="Choosing the kind of agent to connect"> |
+Real screenshots from the signed 1.0.0 build, on a phone pointed at a live Hermes gateway.
 
-| One-time setup code | Chatting |
-|---|---|
-| <img src="screenshots/03-one-time-code.png" width="230" alt="Entering a one-time setup code instead of an API key"> | <img src="screenshots/04-chat.png" width="230" alt="A conversation with an agent"> |
+| First run | Pick where your agent lives | Connect with a one-time code |
+|---|---|---|
+| <img src="screenshots/01-first-run.png" width="230" alt="First-run welcome screen"> | <img src="screenshots/02-where-your-agent-lives.png" width="230" alt="Choosing the kind of agent to connect"> | <img src="screenshots/03-one-time-code.png" width="230" alt="Entering a one-time setup code instead of an API key"> |
+
+| Check the details first | Ready | Settings, agents and notifications |
+|---|---|---|
+| <img src="screenshots/04-check-the-details.png" width="230" alt="Review screen before anything is saved"> | <img src="screenshots/05-ready.png" width="230" alt="Setup complete"> | <img src="screenshots/06-settings-agents.png" width="230" alt="Settings: agents and notifications"> |
 
 Five steps from install to first message. Setup takes one of two credentials: an access key, or a
 single-use **setup code** minted on your server — in that case the master key never reaches the
-phone, only a revocable per-device token does. Names, addresses and the code in these screenshots
-are examples.
+phone, only a revocable per-device token does.
 
 ## Install
 
